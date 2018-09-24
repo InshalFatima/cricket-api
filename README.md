@@ -1,4 +1,4 @@
-## cricket-app
+## Cricket-app
  Here is the link of cricket-app  https://inshalfatima.github.io/cricket-api/
 ### Ingredients
 * HTML -to represent the information
